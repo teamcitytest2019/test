@@ -1,1 +1,1 @@
-start powershell
+Get-process
